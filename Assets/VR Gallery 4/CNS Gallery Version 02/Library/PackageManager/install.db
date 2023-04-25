@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.altspacevr_uploader": {
+      "tarball": {
+        "hash": "71ca79b450e6",
+        "mtime": 1652944908936,
+        "size": 1847923,
+        "localPath": "/Users/navalpandey/Downloads/com.microsoft.altspacevr_uploader-2.2.29 (1).tgz"
+      }
+    }
+  }
+}
